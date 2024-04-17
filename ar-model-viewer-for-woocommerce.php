@@ -11,6 +11,8 @@
  * @since             1.0.0
  * @package           Ar_Model_Viewer_For_Woocommerce
  *
+ * 
+ * kevin se la come
  * @wordpress-plugin
  * Plugin Name:       AR Model Viewer for WooCommerce
  * Plugin URI:        https://plugin.com/ar-model-viewer-for-woocommerce-uri/
